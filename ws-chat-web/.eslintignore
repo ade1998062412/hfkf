@@ -1,0 +1,8 @@
+src/assets
+src/components/UploadImage
+src/icons
+public
+dist
+node_modules
+vab-icon
+layouts
